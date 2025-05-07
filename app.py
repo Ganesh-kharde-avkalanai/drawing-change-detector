@@ -16,7 +16,7 @@ from ultralytics.utils.plotting import colors
 
 model = genai.GenerativeModel('gemini-2.5-pro-exp-03-25')
 
-genai.configure(api_key="AIzaSyAyXZy3TFg7B2Ai7G6raW9Cep-qzDXkJo8")
+genai.configure(api_key="API Key")
 
 # --- Gemini Inference Function ---
 import io
